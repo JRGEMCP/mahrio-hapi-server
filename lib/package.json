@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node lib/server",
   },
+  "main": "lib/server.ts",
   "private": false,
   "dependencies": {
     "good": "^8.1.2",
